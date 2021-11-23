@@ -1,0 +1,16 @@
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\bin\Debug\net5.0\Car_Number.exe
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\bin\Debug\net5.0\Car_Number.deps.json
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\bin\Debug\net5.0\Car_Number.runtimeconfig.json
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\bin\Debug\net5.0\Car_Number.runtimeconfig.dev.json
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\bin\Debug\net5.0\Car_Number.dll
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\bin\Debug\net5.0\ref\Car_Number.dll
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\bin\Debug\net5.0\Car_Number.pdb
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\obj\Debug\net5.0\Car_Number.csproj.AssemblyReference.cache
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\obj\Debug\net5.0\Car_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\obj\Debug\net5.0\Car_Number.AssemblyInfoInputs.cache
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\obj\Debug\net5.0\Car_Number.AssemblyInfo.cs
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\obj\Debug\net5.0\Car_Number.csproj.CoreCompileInputs.cache
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\obj\Debug\net5.0\Car_Number.dll
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\obj\Debug\net5.0\ref\Car_Number.dll
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\obj\Debug\net5.0\Car_Number.pdb
+C:\Users\lev.chesnokov\source\repos\Car_Number\Car_Number\obj\Debug\net5.0\Car_Number.genruntimeconfig.cache

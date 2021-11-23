@@ -1,0 +1,16 @@
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\obj\Debug\net5.0\Romanian_Numbers.csproj.AssemblyReference.cache
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\obj\Debug\net5.0\Romanian_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\obj\Debug\net5.0\Romanian_Numbers.AssemblyInfoInputs.cache
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\obj\Debug\net5.0\Romanian_Numbers.AssemblyInfo.cs
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\obj\Debug\net5.0\Romanian_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\bin\Debug\net5.0\Romanian_Numbers.exe
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\bin\Debug\net5.0\Romanian_Numbers.deps.json
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\bin\Debug\net5.0\Romanian_Numbers.runtimeconfig.json
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\bin\Debug\net5.0\Romanian_Numbers.runtimeconfig.dev.json
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\bin\Debug\net5.0\Romanian_Numbers.dll
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\bin\Debug\net5.0\ref\Romanian_Numbers.dll
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\bin\Debug\net5.0\Romanian_Numbers.pdb
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\obj\Debug\net5.0\Romanian_Numbers.dll
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\obj\Debug\net5.0\ref\Romanian_Numbers.dll
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\obj\Debug\net5.0\Romanian_Numbers.pdb
+C:\Users\lev.chesnokov\Documents\GitHub\ITMO_Sharp\Romanian_Numbers\Romanian_Numbers\obj\Debug\net5.0\Romanian_Numbers.genruntimeconfig.cache
